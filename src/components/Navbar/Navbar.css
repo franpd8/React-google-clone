@@ -26,7 +26,6 @@
     padding: 9px 23px;
     border-radius: 4px;
     cursor: pointer;
-
 }
 .LoginButton:hover{
     background: rgba(26, 115, 232, 0.721);

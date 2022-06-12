@@ -2,14 +2,12 @@
     bottom:0;
     margin:1em;
 }
-
 .footer a{
     all:unset;
     margin-right: 0.7em;
     color:#202124;
     font-size:14px;
 }
-
 .links{
     display:flex;
     justify-content: space-between;
@@ -17,7 +15,6 @@
 .links a:hover{
     text-decoration:underline;
 }
-
 .leaf{
     height: 14px;
     width: 14px;
