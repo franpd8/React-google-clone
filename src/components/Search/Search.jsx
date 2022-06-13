@@ -1,4 +1,3 @@
-import React from "react";
 import "./Search.css";
 import MicroImg from "../../assets/micro.svg";
 import LupaImg from "../../assets/search.svg";
